@@ -1,0 +1,18 @@
+body, html {
+	height:100%;
+	margin: 0;
+	padding: 0;
+}
+
+#notecard {
+	height: 75vh;
+	width: 100%;
+}
+
+#flipButton, #nextButton {
+	width:100%;
+}
+
+.hidden {
+	display:none;
+}
